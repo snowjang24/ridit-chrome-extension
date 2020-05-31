@@ -1,0 +1,22 @@
+{
+  "name": "ridit-chrome-extension",
+  "version": "0.0.1",
+  "description": "chrome extension for cool bookmark management",
+  "main": "index.html",
+  "repository": "https://github.com/snowjang24/ridit-chrome-extension.git",
+  "author": "snowJang24, nailerHeum ",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.9.35",
+    "@types/react-dom": "^16.9.8",
+    "source-map-loader": "^1.0.0",
+    "ts-loader": "^7.0.5",
+    "typescript": "^3.9.3",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
