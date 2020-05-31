@@ -1,0 +1,21 @@
+{
+  "name": "Ridit - Read it, Rid it!",
+  "description": "Bookmark management New Tab Chrome Extension",
+  "version": "1.0",
+  "manifest_version": 2,
+  "permissions": ["activeTab"],
+  "chrome_url_overrides": {
+    "newtab": "main/index.html"
+  },
+  "browser_action": {
+    "default_popup": "popup/index.html",
+    "default_title": "New Tab"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "css": ["sidebar/sidebar.css"],
+      "js": ["sidebar/Sidebar.js"]
+    }
+  ]
+}
