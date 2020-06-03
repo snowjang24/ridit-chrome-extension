@@ -1,7 +1,8 @@
-[![Contributors][contributors-shield]][https://github.com/snowjang24/ridit-chrome-extension/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/snowjang24/ridit-chrome-extension/network/members]
-[![Stargazers][stars-shield]][https://github.com/snowjang24/ridit-chrome-extension/stargazers]
-[![Issues][issues-shield]][https://github.com/snowjang24/ridit-chrome-extension/issues]
+<!-- BADGES -->
+<a href="https://github.com/snowjang24/ridit-chrome-extension/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/snowjang24/ridit-chrome-extension"></a>
+<a href="https://github.com/snowjang24/ridit-chrome-extension/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/snowjang24/ridit-chrome-extension"></a>
+<a href="https://github.com/snowjang24/ridit-chrome-extension/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/snowjang24/ridit-chrome-extension"></a>
+<a href="https://github.com/snowjang24/ridit-chrome-extension"><img alt="GitHub license" src="https://img.shields.io/github/license/snowjang24/ridit-chrome-extension"></a>
 
 <!-- PROJECT LOGO -->
 <br />
