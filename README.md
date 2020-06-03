@@ -1,15 +1,13 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors][contributors-shield]][https://github.com/snowjang24/ridit-chrome-extension/graphs/contributors]
+[![Forks][forks-shield]][https://github.com/snowjang24/ridit-chrome-extension/network/members]
+[![Stargazers][stars-shield]][https://github.com/snowjang24/ridit-chrome-extension/stargazers]
+[![Issues][issues-shield]][https://github.com/snowjang24/ridit-chrome-extension/issues]
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/snowjang24/ridit-chrome-extension">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="RIDIT.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Ridit - Read it, Rid it!</h3>
