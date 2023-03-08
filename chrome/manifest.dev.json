@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "name": "Ridit - Read it, Get Rid of it!",
+  "version": "0.1.0",
+  "description": "Bookmark management Chrome Extension",
+  "permissions": ["activeTab", "management", "storage"],
+  "icons": {
+    "16": "img/ridit-icon-16.png",
+    "48": "img/ridit-icon-48.png",
+    "128": "img/ridit-icon-128.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "main.html"
+  },
+  "background": {
+    "scripts": ["bookmark.bundle.js"]
+  },
+  "browser_action": {
+    "default_title": "Ridit, bookmark management chrome extension",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "css": ["sidebar.css"],
+      "js": ["sidebar.bundle.js"],
+      "run_at": "document_idle",
+      "all_frames": true,
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

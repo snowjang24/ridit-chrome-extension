@@ -8,10 +8,9 @@
 <br />
 <p align="center">
   <a href="https://github.com/snowjang24/ridit-chrome-extension">
-    <img src="RIDIT.png" alt="Logo" width="100" height="100">
+    <img src="RIDIT.png" alt="Logo" width="240">
   </a>
-
-  <h3 align="center">Ridit - Read it, Rid it!</h3>
+  <h3 align="center">Ridit - Read it, Get Rid of it!</h3>
   <p align="center">
     Bookmark management Chrome Extension!
     <br/>
